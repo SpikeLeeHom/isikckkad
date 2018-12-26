@@ -1,0 +1,11 @@
+framework module CallbackURLKitClients {
+  umbrella header "CallbackURLKitClients.h"
+
+  export *
+  module * { export * }
+}
+
+module CallbackURLKitClients.Swift {
+    header "CallbackURLKitClients-Swift.h"
+    requires objc
+}

@@ -1,0 +1,62 @@
+{
+  "name": "xxssss",
+  "version": "0.1.0",
+  "summary": "A short description of xxssss.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SpikeLeeHom/xxssss",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SpikeLeeHom": "spikeleeyuuui@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/SpikeLeeHom/xxssss.git",
+    "tag": "0.1.0"
+  },
+  "frameworks": [
+    "CocoaAsyncSocket",
+    "Eureka",
+    "KissXML",
+    "libmaxminddb",
+    "libsodium",
+    "libuv",
+    "mbedtls",
+    "MMWormhole",
+    "PacketProcessor",
+    "PotatsoBase",
+    "PotatsoLibrary",
+    "PotatsoModel",
+    "ShadowPath",
+    "ssrLocal",
+    "yaml"
+  ],
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "xxssss/Classes/**/*",
+  "dependencies": {
+    "Cartography": [
+      "~>3.0"
+    ],
+    "KeychainAccess": [
+      "~> 3.1.1"
+    ],
+    "RealmSwift": [
+      "~> 2.10.2"
+    ],
+    "CocoaLumberjack/Swift": [
+      "~> 3.4.1"
+    ],
+    "LogglyLogger-CocoaLumberjack": [
+      "~> 3.0.0"
+    ],
+    "Alamofire": [
+
+    ],
+    "AsyncSwift": [
+
+    ]
+  }
+}
