@@ -27,8 +27,8 @@ TODO: Add long description of the pod here.
   s.author           = { 'SpikeLeeHom' => 'spikeleeyuuui@gmail.com' }
   s.source           = { :git => 'https://github.com/SpikeLeeHom/xxssss.git', :tag => s.version.to_s }
 
-  s.frameworks = 'CocoaAsyncSocket','Eureka','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml'
-
+  s.frameworks = 'UIKit', 'CoreLocation','Foundation'
+  s.vendored_frameworks = 'xxssss/Classes/**/*.{framework,a}'
   # s.social_media_url = 's'
 
   s.ios.deployment_target = '8.0'
