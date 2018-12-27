@@ -29,7 +29,8 @@ TODO: Add long description of the pod here.
 
   s.frameworks = 'UIKit', 'CoreLocation','Foundation','MMWormhole','KissXML','libsodium','PacketProcessor','PotatsoBase','libuv','CocoaAsyncSocket','Eureka','mbedtls','ssrLocal','PotatsoLibrary','libmaxminddb','yaml','ShadowPath','PotatsoModel','libcrypto','libssl'
 
-  s.vendored_frameworks = 'xxssss/Classes/**/*.{framework,a}'
+  s.vendored_frameworks = 'xxssss/Classes/**/*.framework'
+   s.vendored_libraries = 'xxssss/Classes/**/*.a'
   # s.social_media_url = 's'
 
   s.ios.deployment_target = '8.0'
