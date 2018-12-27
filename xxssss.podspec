@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'xxssss'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = 'A short description of xxssss.'
 
 # This description is used to generate tags and improve search results.
@@ -30,10 +30,10 @@ TODO: Add long description of the pod here.
   s.frameworks = 'UIKit', 'CoreLocation','Foundation','MMWormhole','KissXML','libsodium','PacketProcessor','PotatsoBase','libuv','CocoaAsyncSocket','Eureka','mbedtls','ssrLocal','PotatsoLibrary','libmaxminddb','yaml','ShadowPath','PotatsoModel'
 
   s.vendored_frameworks = 'xxssss/Classes/**/*.framework'
-   s.vendored_libraries = 'xxssss/Classes/**/*.a'
-  # s.social_media_url = 's'
+  s.vendored_libraries = 'xxssss/Classes/**/*.a'
+
   s.compiler_flags = "-fcxx-modules"
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'xxssss/Classes/**/*'
 

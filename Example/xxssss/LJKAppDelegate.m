@@ -7,7 +7,6 @@
 //
 
 #import "LJKAppDelegate.h"
-
 @implementation LJKAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
