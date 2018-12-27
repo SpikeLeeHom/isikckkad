@@ -25,51 +25,51 @@
 		78B4A11521D3B63D00FA08BA /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 78B4A0B121D3B63D00FA08BA /* LICENSE */; };
 		78B4A11621D3B63D00FA08BA /* libcrypto.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A0FF21D3B63D00FA08BA /* libcrypto.a */; };
 		78B4A11721D3B63D00FA08BA /* libssl.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A10021D3B63D00FA08BA /* libssl.a */; };
-		78B4A19B21D4841800FA08BA /* mbedtls.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18921D4841600FA08BA /* mbedtls.framework */; };
-		78B4A19C21D4841800FA08BA /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18A21D4841600FA08BA /* CocoaAsyncSocket.framework */; };
-		78B4A19E21D4841800FA08BA /* PotatsoLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18C21D4841700FA08BA /* PotatsoLibrary.framework */; };
-		78B4A1A021D4841800FA08BA /* ssrLocal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18E21D4841700FA08BA /* ssrLocal.framework */; };
-		78B4A1A121D4841800FA08BA /* PotatsoBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18F21D4841700FA08BA /* PotatsoBase.framework */; };
-		78B4A1A221D4841800FA08BA /* yaml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19021D4841700FA08BA /* yaml.framework */; };
-		78B4A1A321D4841800FA08BA /* libmaxminddb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19121D4841700FA08BA /* libmaxminddb.framework */; };
-		78B4A1A521D4841800FA08BA /* KissXML.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19321D4841700FA08BA /* KissXML.framework */; };
-		78B4A1A621D4841800FA08BA /* libuv.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19421D4841700FA08BA /* libuv.framework */; };
-		78B4A1A721D4841800FA08BA /* ShadowPath.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19521D4841700FA08BA /* ShadowPath.framework */; };
-		78B4A1A821D4841800FA08BA /* Eureka.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19621D4841700FA08BA /* Eureka.framework */; };
-		78B4A1A921D4841800FA08BA /* PacketProcessor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19721D4841700FA08BA /* PacketProcessor.framework */; };
-		78B4A1AA21D4841800FA08BA /* MMWormhole.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19821D4841700FA08BA /* MMWormhole.framework */; };
-		78B4A1AB21D4841800FA08BA /* PotatsoModel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19921D4841700FA08BA /* PotatsoModel.framework */; };
-		78B4A1AC21D4841800FA08BA /* libsodium.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19A21D4841700FA08BA /* libsodium.framework */; };
-		78B4A1AD21D4843000FA08BA /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18A21D4841600FA08BA /* CocoaAsyncSocket.framework */; };
-		78B4A1AE21D4843000FA08BA /* CocoaAsyncSocket.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18A21D4841600FA08BA /* CocoaAsyncSocket.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1AF21D4843000FA08BA /* Eureka.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19621D4841700FA08BA /* Eureka.framework */; };
-		78B4A1B021D4843000FA08BA /* Eureka.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19621D4841700FA08BA /* Eureka.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1B121D4843000FA08BA /* KissXML.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19321D4841700FA08BA /* KissXML.framework */; };
-		78B4A1B221D4843000FA08BA /* KissXML.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19321D4841700FA08BA /* KissXML.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1B321D4843000FA08BA /* libmaxminddb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19121D4841700FA08BA /* libmaxminddb.framework */; };
-		78B4A1B421D4843000FA08BA /* libmaxminddb.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19121D4841700FA08BA /* libmaxminddb.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1B521D4843000FA08BA /* libsodium.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19A21D4841700FA08BA /* libsodium.framework */; };
-		78B4A1B621D4843000FA08BA /* libsodium.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19A21D4841700FA08BA /* libsodium.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1B721D4843000FA08BA /* libuv.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19421D4841700FA08BA /* libuv.framework */; };
-		78B4A1B821D4843000FA08BA /* libuv.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19421D4841700FA08BA /* libuv.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1B921D4843000FA08BA /* mbedtls.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18921D4841600FA08BA /* mbedtls.framework */; };
-		78B4A1BA21D4843000FA08BA /* mbedtls.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18921D4841600FA08BA /* mbedtls.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1BB21D4843000FA08BA /* MMWormhole.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19821D4841700FA08BA /* MMWormhole.framework */; };
-		78B4A1BC21D4843000FA08BA /* MMWormhole.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19821D4841700FA08BA /* MMWormhole.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1BD21D4843000FA08BA /* PacketProcessor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19721D4841700FA08BA /* PacketProcessor.framework */; };
-		78B4A1BE21D4843000FA08BA /* PacketProcessor.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19721D4841700FA08BA /* PacketProcessor.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1C521D4843000FA08BA /* PotatsoBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18F21D4841700FA08BA /* PotatsoBase.framework */; };
-		78B4A1C621D4843000FA08BA /* PotatsoBase.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18F21D4841700FA08BA /* PotatsoBase.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1C721D4843000FA08BA /* PotatsoLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18C21D4841700FA08BA /* PotatsoLibrary.framework */; };
-		78B4A1C821D4843000FA08BA /* PotatsoLibrary.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18C21D4841700FA08BA /* PotatsoLibrary.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1C921D4843000FA08BA /* PotatsoModel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19921D4841700FA08BA /* PotatsoModel.framework */; };
-		78B4A1CA21D4843000FA08BA /* PotatsoModel.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19921D4841700FA08BA /* PotatsoModel.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1CB21D4843000FA08BA /* ShadowPath.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19521D4841700FA08BA /* ShadowPath.framework */; };
-		78B4A1CC21D4843000FA08BA /* ShadowPath.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19521D4841700FA08BA /* ShadowPath.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1CD21D4843000FA08BA /* ssrLocal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18E21D4841700FA08BA /* ssrLocal.framework */; };
-		78B4A1CE21D4843000FA08BA /* ssrLocal.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A18E21D4841700FA08BA /* ssrLocal.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		78B4A1CF21D4843000FA08BA /* yaml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19021D4841700FA08BA /* yaml.framework */; };
-		78B4A1D021D4843000FA08BA /* yaml.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A19021D4841700FA08BA /* yaml.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A24121D4990E00FA08BA /* MMWormhole.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23221D4990E00FA08BA /* MMWormhole.framework */; };
+		78B4A24221D4990E00FA08BA /* KissXML.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23321D4990E00FA08BA /* KissXML.framework */; };
+		78B4A24321D4990E00FA08BA /* libsodium.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23421D4990E00FA08BA /* libsodium.framework */; };
+		78B4A24421D4990E00FA08BA /* PacketProcessor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23521D4990E00FA08BA /* PacketProcessor.framework */; };
+		78B4A24521D4990E00FA08BA /* PotatsoBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23621D4990E00FA08BA /* PotatsoBase.framework */; };
+		78B4A24621D4990E00FA08BA /* libuv.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23721D4990E00FA08BA /* libuv.framework */; };
+		78B4A24721D4990E00FA08BA /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23821D4990E00FA08BA /* CocoaAsyncSocket.framework */; };
+		78B4A24821D4990E00FA08BA /* Eureka.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23921D4990E00FA08BA /* Eureka.framework */; };
+		78B4A24921D4990E00FA08BA /* mbedtls.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23A21D4990E00FA08BA /* mbedtls.framework */; };
+		78B4A24A21D4990E00FA08BA /* ssrLocal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23B21D4990E00FA08BA /* ssrLocal.framework */; };
+		78B4A24B21D4990E00FA08BA /* PotatsoLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23C21D4990E00FA08BA /* PotatsoLibrary.framework */; };
+		78B4A24C21D4990E00FA08BA /* libmaxminddb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23D21D4990E00FA08BA /* libmaxminddb.framework */; };
+		78B4A24D21D4990E00FA08BA /* yaml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23E21D4990E00FA08BA /* yaml.framework */; };
+		78B4A24E21D4990E00FA08BA /* ShadowPath.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23F21D4990E00FA08BA /* ShadowPath.framework */; };
+		78B4A24F21D4990E00FA08BA /* PotatsoModel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A24021D4990E00FA08BA /* PotatsoModel.framework */; };
+		78B4A25021D4991A00FA08BA /* MMWormhole.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23221D4990E00FA08BA /* MMWormhole.framework */; };
+		78B4A25121D4991A00FA08BA /* MMWormhole.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23221D4990E00FA08BA /* MMWormhole.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A25221D4991A00FA08BA /* KissXML.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23321D4990E00FA08BA /* KissXML.framework */; };
+		78B4A25321D4991A00FA08BA /* KissXML.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23321D4990E00FA08BA /* KissXML.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A25421D4991A00FA08BA /* libsodium.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23421D4990E00FA08BA /* libsodium.framework */; };
+		78B4A25521D4991A00FA08BA /* libsodium.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23421D4990E00FA08BA /* libsodium.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A25621D4991A00FA08BA /* PacketProcessor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23521D4990E00FA08BA /* PacketProcessor.framework */; };
+		78B4A25721D4991A00FA08BA /* PacketProcessor.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23521D4990E00FA08BA /* PacketProcessor.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A25821D4991A00FA08BA /* PotatsoBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23621D4990E00FA08BA /* PotatsoBase.framework */; };
+		78B4A25921D4991A00FA08BA /* PotatsoBase.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23621D4990E00FA08BA /* PotatsoBase.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A25A21D4991A00FA08BA /* libuv.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23721D4990E00FA08BA /* libuv.framework */; };
+		78B4A25B21D4991A00FA08BA /* libuv.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23721D4990E00FA08BA /* libuv.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A25C21D4991A00FA08BA /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23821D4990E00FA08BA /* CocoaAsyncSocket.framework */; };
+		78B4A25D21D4991A00FA08BA /* CocoaAsyncSocket.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23821D4990E00FA08BA /* CocoaAsyncSocket.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A25E21D4991A00FA08BA /* Eureka.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23921D4990E00FA08BA /* Eureka.framework */; };
+		78B4A25F21D4991A00FA08BA /* Eureka.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23921D4990E00FA08BA /* Eureka.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A26021D4991A00FA08BA /* mbedtls.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23A21D4990E00FA08BA /* mbedtls.framework */; };
+		78B4A26121D4991A00FA08BA /* mbedtls.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23A21D4990E00FA08BA /* mbedtls.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A26221D4991A00FA08BA /* ssrLocal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23B21D4990E00FA08BA /* ssrLocal.framework */; };
+		78B4A26321D4991A00FA08BA /* ssrLocal.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23B21D4990E00FA08BA /* ssrLocal.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A26421D4991A00FA08BA /* PotatsoLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23C21D4990E00FA08BA /* PotatsoLibrary.framework */; };
+		78B4A26521D4991A00FA08BA /* PotatsoLibrary.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23C21D4990E00FA08BA /* PotatsoLibrary.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A26621D4991A00FA08BA /* libmaxminddb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23D21D4990E00FA08BA /* libmaxminddb.framework */; };
+		78B4A26721D4991A00FA08BA /* libmaxminddb.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23D21D4990E00FA08BA /* libmaxminddb.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A26821D4991A00FA08BA /* yaml.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23E21D4990E00FA08BA /* yaml.framework */; };
+		78B4A26921D4991A00FA08BA /* yaml.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23E21D4990E00FA08BA /* yaml.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A26A21D4991A00FA08BA /* ShadowPath.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23F21D4990E00FA08BA /* ShadowPath.framework */; };
+		78B4A26B21D4991A00FA08BA /* ShadowPath.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A23F21D4990E00FA08BA /* ShadowPath.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		78B4A26C21D4991A00FA08BA /* PotatsoModel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A24021D4990E00FA08BA /* PotatsoModel.framework */; };
+		78B4A26D21D4991A00FA08BA /* PotatsoModel.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 78B4A24021D4990E00FA08BA /* PotatsoModel.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -90,21 +90,21 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				78B4A1BE21D4843000FA08BA /* PacketProcessor.framework in Embed Frameworks */,
-				78B4A1D021D4843000FA08BA /* yaml.framework in Embed Frameworks */,
-				78B4A1AE21D4843000FA08BA /* CocoaAsyncSocket.framework in Embed Frameworks */,
-				78B4A1CE21D4843000FA08BA /* ssrLocal.framework in Embed Frameworks */,
-				78B4A1CC21D4843000FA08BA /* ShadowPath.framework in Embed Frameworks */,
-				78B4A1B821D4843000FA08BA /* libuv.framework in Embed Frameworks */,
-				78B4A1B421D4843000FA08BA /* libmaxminddb.framework in Embed Frameworks */,
-				78B4A1B221D4843000FA08BA /* KissXML.framework in Embed Frameworks */,
-				78B4A1C821D4843000FA08BA /* PotatsoLibrary.framework in Embed Frameworks */,
-				78B4A1BA21D4843000FA08BA /* mbedtls.framework in Embed Frameworks */,
-				78B4A1B621D4843000FA08BA /* libsodium.framework in Embed Frameworks */,
-				78B4A1C621D4843000FA08BA /* PotatsoBase.framework in Embed Frameworks */,
-				78B4A1CA21D4843000FA08BA /* PotatsoModel.framework in Embed Frameworks */,
-				78B4A1B021D4843000FA08BA /* Eureka.framework in Embed Frameworks */,
-				78B4A1BC21D4843000FA08BA /* MMWormhole.framework in Embed Frameworks */,
+				78B4A25D21D4991A00FA08BA /* CocoaAsyncSocket.framework in Embed Frameworks */,
+				78B4A26721D4991A00FA08BA /* libmaxminddb.framework in Embed Frameworks */,
+				78B4A26921D4991A00FA08BA /* yaml.framework in Embed Frameworks */,
+				78B4A26121D4991A00FA08BA /* mbedtls.framework in Embed Frameworks */,
+				78B4A25F21D4991A00FA08BA /* Eureka.framework in Embed Frameworks */,
+				78B4A26321D4991A00FA08BA /* ssrLocal.framework in Embed Frameworks */,
+				78B4A25521D4991A00FA08BA /* libsodium.framework in Embed Frameworks */,
+				78B4A25B21D4991A00FA08BA /* libuv.framework in Embed Frameworks */,
+				78B4A25721D4991A00FA08BA /* PacketProcessor.framework in Embed Frameworks */,
+				78B4A25321D4991A00FA08BA /* KissXML.framework in Embed Frameworks */,
+				78B4A25921D4991A00FA08BA /* PotatsoBase.framework in Embed Frameworks */,
+				78B4A26521D4991A00FA08BA /* PotatsoLibrary.framework in Embed Frameworks */,
+				78B4A26D21D4991A00FA08BA /* PotatsoModel.framework in Embed Frameworks */,
+				78B4A25121D4991A00FA08BA /* MMWormhole.framework in Embed Frameworks */,
+				78B4A26B21D4991A00FA08BA /* ShadowPath.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -215,21 +215,21 @@
 		78B4A0FD21D3B63D00FA08BA /* lhash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = lhash.h; sourceTree = "<group>"; };
 		78B4A0FF21D3B63D00FA08BA /* libcrypto.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libcrypto.a; sourceTree = "<group>"; };
 		78B4A10021D3B63D00FA08BA /* libssl.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libssl.a; sourceTree = "<group>"; };
-		78B4A18921D4841600FA08BA /* mbedtls.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = mbedtls.framework; sourceTree = "<group>"; };
-		78B4A18A21D4841600FA08BA /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CocoaAsyncSocket.framework; sourceTree = "<group>"; };
-		78B4A18C21D4841700FA08BA /* PotatsoLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PotatsoLibrary.framework; sourceTree = "<group>"; };
-		78B4A18E21D4841700FA08BA /* ssrLocal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ssrLocal.framework; sourceTree = "<group>"; };
-		78B4A18F21D4841700FA08BA /* PotatsoBase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PotatsoBase.framework; sourceTree = "<group>"; };
-		78B4A19021D4841700FA08BA /* yaml.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = yaml.framework; sourceTree = "<group>"; };
-		78B4A19121D4841700FA08BA /* libmaxminddb.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = libmaxminddb.framework; sourceTree = "<group>"; };
-		78B4A19321D4841700FA08BA /* KissXML.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = KissXML.framework; sourceTree = "<group>"; };
-		78B4A19421D4841700FA08BA /* libuv.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = libuv.framework; sourceTree = "<group>"; };
-		78B4A19521D4841700FA08BA /* ShadowPath.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ShadowPath.framework; sourceTree = "<group>"; };
-		78B4A19621D4841700FA08BA /* Eureka.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Eureka.framework; sourceTree = "<group>"; };
-		78B4A19721D4841700FA08BA /* PacketProcessor.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PacketProcessor.framework; sourceTree = "<group>"; };
-		78B4A19821D4841700FA08BA /* MMWormhole.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MMWormhole.framework; sourceTree = "<group>"; };
-		78B4A19921D4841700FA08BA /* PotatsoModel.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PotatsoModel.framework; sourceTree = "<group>"; };
-		78B4A19A21D4841700FA08BA /* libsodium.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = libsodium.framework; sourceTree = "<group>"; };
+		78B4A23221D4990E00FA08BA /* MMWormhole.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MMWormhole.framework; sourceTree = "<group>"; };
+		78B4A23321D4990E00FA08BA /* KissXML.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = KissXML.framework; sourceTree = "<group>"; };
+		78B4A23421D4990E00FA08BA /* libsodium.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = libsodium.framework; sourceTree = "<group>"; };
+		78B4A23521D4990E00FA08BA /* PacketProcessor.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PacketProcessor.framework; sourceTree = "<group>"; };
+		78B4A23621D4990E00FA08BA /* PotatsoBase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PotatsoBase.framework; sourceTree = "<group>"; };
+		78B4A23721D4990E00FA08BA /* libuv.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = libuv.framework; sourceTree = "<group>"; };
+		78B4A23821D4990E00FA08BA /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CocoaAsyncSocket.framework; sourceTree = "<group>"; };
+		78B4A23921D4990E00FA08BA /* Eureka.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Eureka.framework; sourceTree = "<group>"; };
+		78B4A23A21D4990E00FA08BA /* mbedtls.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = mbedtls.framework; sourceTree = "<group>"; };
+		78B4A23B21D4990E00FA08BA /* ssrLocal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ssrLocal.framework; sourceTree = "<group>"; };
+		78B4A23C21D4990E00FA08BA /* PotatsoLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PotatsoLibrary.framework; sourceTree = "<group>"; };
+		78B4A23D21D4990E00FA08BA /* libmaxminddb.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = libmaxminddb.framework; sourceTree = "<group>"; };
+		78B4A23E21D4990E00FA08BA /* yaml.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = yaml.framework; sourceTree = "<group>"; };
+		78B4A23F21D4990E00FA08BA /* ShadowPath.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ShadowPath.framework; sourceTree = "<group>"; };
+		78B4A24021D4990E00FA08BA /* PotatsoModel.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PotatsoModel.framework; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B95C02E89CA66E468ED754B9 /* Pods_xxssss_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_xxssss_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1EDE3D3AE94943463B9BD96 /* Pods_xxssss_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_xxssss_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -241,42 +241,42 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				78B4A1B921D4843000FA08BA /* mbedtls.framework in Frameworks */,
-				78B4A1CD21D4843000FA08BA /* ssrLocal.framework in Frameworks */,
-				78B4A1A721D4841800FA08BA /* ShadowPath.framework in Frameworks */,
-				78B4A1B321D4843000FA08BA /* libmaxminddb.framework in Frameworks */,
-				78B4A1CB21D4843000FA08BA /* ShadowPath.framework in Frameworks */,
-				78B4A1AA21D4841800FA08BA /* MMWormhole.framework in Frameworks */,
-				78B4A1A021D4841800FA08BA /* ssrLocal.framework in Frameworks */,
+				78B4A24221D4990E00FA08BA /* KissXML.framework in Frameworks */,
+				78B4A25021D4991A00FA08BA /* MMWormhole.framework in Frameworks */,
+				78B4A24A21D4990E00FA08BA /* ssrLocal.framework in Frameworks */,
+				78B4A24821D4990E00FA08BA /* Eureka.framework in Frameworks */,
+				78B4A24E21D4990E00FA08BA /* ShadowPath.framework in Frameworks */,
+				78B4A24621D4990E00FA08BA /* libuv.framework in Frameworks */,
 				6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */,
-				78B4A1A521D4841800FA08BA /* KissXML.framework in Frameworks */,
-				78B4A1AB21D4841800FA08BA /* PotatsoModel.framework in Frameworks */,
-				78B4A1AD21D4843000FA08BA /* CocoaAsyncSocket.framework in Frameworks */,
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
-				78B4A19C21D4841800FA08BA /* CocoaAsyncSocket.framework in Frameworks */,
-				78B4A1A621D4841800FA08BA /* libuv.framework in Frameworks */,
-				78B4A1B721D4843000FA08BA /* libuv.framework in Frameworks */,
-				78B4A1C721D4843000FA08BA /* PotatsoLibrary.framework in Frameworks */,
-				78B4A1C521D4843000FA08BA /* PotatsoBase.framework in Frameworks */,
-				78B4A1A821D4841800FA08BA /* Eureka.framework in Frameworks */,
 				78B4A11621D3B63D00FA08BA /* libcrypto.a in Frameworks */,
-				78B4A1A321D4841800FA08BA /* libmaxminddb.framework in Frameworks */,
-				78B4A1AC21D4841800FA08BA /* libsodium.framework in Frameworks */,
-				78B4A1C921D4843000FA08BA /* PotatsoModel.framework in Frameworks */,
-				78B4A19E21D4841800FA08BA /* PotatsoLibrary.framework in Frameworks */,
+				78B4A26221D4991A00FA08BA /* ssrLocal.framework in Frameworks */,
+				78B4A24C21D4990E00FA08BA /* libmaxminddb.framework in Frameworks */,
+				78B4A25821D4991A00FA08BA /* PotatsoBase.framework in Frameworks */,
+				78B4A24F21D4990E00FA08BA /* PotatsoModel.framework in Frameworks */,
+				78B4A26A21D4991A00FA08BA /* ShadowPath.framework in Frameworks */,
+				78B4A26621D4991A00FA08BA /* libmaxminddb.framework in Frameworks */,
+				78B4A25221D4991A00FA08BA /* KissXML.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
-				78B4A1A221D4841800FA08BA /* yaml.framework in Frameworks */,
-				78B4A1BB21D4843000FA08BA /* MMWormhole.framework in Frameworks */,
-				78B4A19B21D4841800FA08BA /* mbedtls.framework in Frameworks */,
-				78B4A1A121D4841800FA08BA /* PotatsoBase.framework in Frameworks */,
-				78B4A1B121D4843000FA08BA /* KissXML.framework in Frameworks */,
-				78B4A1A921D4841800FA08BA /* PacketProcessor.framework in Frameworks */,
-				78B4A1AF21D4843000FA08BA /* Eureka.framework in Frameworks */,
-				78B4A1CF21D4843000FA08BA /* yaml.framework in Frameworks */,
+				78B4A25C21D4991A00FA08BA /* CocoaAsyncSocket.framework in Frameworks */,
+				78B4A24421D4990E00FA08BA /* PacketProcessor.framework in Frameworks */,
+				78B4A25E21D4991A00FA08BA /* Eureka.framework in Frameworks */,
+				78B4A24521D4990E00FA08BA /* PotatsoBase.framework in Frameworks */,
+				78B4A26421D4991A00FA08BA /* PotatsoLibrary.framework in Frameworks */,
+				78B4A25A21D4991A00FA08BA /* libuv.framework in Frameworks */,
+				78B4A25421D4991A00FA08BA /* libsodium.framework in Frameworks */,
+				78B4A24721D4990E00FA08BA /* CocoaAsyncSocket.framework in Frameworks */,
+				78B4A24D21D4990E00FA08BA /* yaml.framework in Frameworks */,
 				507C84614943EC85C403ECBF /* Pods_xxssss_Example.framework in Frameworks */,
-				78B4A1BD21D4843000FA08BA /* PacketProcessor.framework in Frameworks */,
+				78B4A24321D4990E00FA08BA /* libsodium.framework in Frameworks */,
+				78B4A25621D4991A00FA08BA /* PacketProcessor.framework in Frameworks */,
+				78B4A24121D4990E00FA08BA /* MMWormhole.framework in Frameworks */,
+				78B4A24921D4990E00FA08BA /* mbedtls.framework in Frameworks */,
+				78B4A24B21D4990E00FA08BA /* PotatsoLibrary.framework in Frameworks */,
+				78B4A26821D4991A00FA08BA /* yaml.framework in Frameworks */,
+				78B4A26C21D4991A00FA08BA /* PotatsoModel.framework in Frameworks */,
+				78B4A26021D4991A00FA08BA /* mbedtls.framework in Frameworks */,
 				78B4A11721D3B63D00FA08BA /* libssl.a in Frameworks */,
-				78B4A1B521D4843000FA08BA /* libsodium.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -387,35 +387,13 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				78B4A09A21D3B63C00FA08BA /* Frameworks */,
+				78B4A23121D4990E00FA08BA /* Frameworks */,
 				78B4A0AF21D3B63D00FA08BA /* libopenssl */,
 				D5786B21860FB8312061CEB7 /* xxssss.podspec */,
 				4B43D8321639D1D50C287F64 /* README.md */,
 				61A7132EB233DC86047B05F3 /* LICENSE */,
 			);
 			name = "Podspec Metadata";
-			sourceTree = "<group>";
-		};
-		78B4A09A21D3B63C00FA08BA /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				78B4A18A21D4841600FA08BA /* CocoaAsyncSocket.framework */,
-				78B4A19621D4841700FA08BA /* Eureka.framework */,
-				78B4A19321D4841700FA08BA /* KissXML.framework */,
-				78B4A19121D4841700FA08BA /* libmaxminddb.framework */,
-				78B4A19A21D4841700FA08BA /* libsodium.framework */,
-				78B4A19421D4841700FA08BA /* libuv.framework */,
-				78B4A18921D4841600FA08BA /* mbedtls.framework */,
-				78B4A19821D4841700FA08BA /* MMWormhole.framework */,
-				78B4A19721D4841700FA08BA /* PacketProcessor.framework */,
-				78B4A18F21D4841700FA08BA /* PotatsoBase.framework */,
-				78B4A18C21D4841700FA08BA /* PotatsoLibrary.framework */,
-				78B4A19921D4841700FA08BA /* PotatsoModel.framework */,
-				78B4A19521D4841700FA08BA /* ShadowPath.framework */,
-				78B4A18E21D4841700FA08BA /* ssrLocal.framework */,
-				78B4A19021D4841700FA08BA /* yaml.framework */,
-			);
-			path = Frameworks;
 			sourceTree = "<group>";
 		};
 		78B4A0AF21D3B63D00FA08BA /* libopenssl */ = {
@@ -532,6 +510,28 @@
 			children = (
 			);
 			name = Provide;
+			sourceTree = "<group>";
+		};
+		78B4A23121D4990E00FA08BA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				78B4A23221D4990E00FA08BA /* MMWormhole.framework */,
+				78B4A23321D4990E00FA08BA /* KissXML.framework */,
+				78B4A23421D4990E00FA08BA /* libsodium.framework */,
+				78B4A23521D4990E00FA08BA /* PacketProcessor.framework */,
+				78B4A23621D4990E00FA08BA /* PotatsoBase.framework */,
+				78B4A23721D4990E00FA08BA /* libuv.framework */,
+				78B4A23821D4990E00FA08BA /* CocoaAsyncSocket.framework */,
+				78B4A23921D4990E00FA08BA /* Eureka.framework */,
+				78B4A23A21D4990E00FA08BA /* mbedtls.framework */,
+				78B4A23B21D4990E00FA08BA /* ssrLocal.framework */,
+				78B4A23C21D4990E00FA08BA /* PotatsoLibrary.framework */,
+				78B4A23D21D4990E00FA08BA /* libmaxminddb.framework */,
+				78B4A23E21D4990E00FA08BA /* yaml.framework */,
+				78B4A23F21D4990E00FA08BA /* ShadowPath.framework */,
+				78B4A24021D4990E00FA08BA /* PotatsoModel.framework */,
+			);
+			path = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
